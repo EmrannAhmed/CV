@@ -1,0 +1,13 @@
+.centre {
+  display: flex;
+  width: 60mm;
+  height: auto;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    
+}
+.name {
+    color: aquamarine;
+
+}
